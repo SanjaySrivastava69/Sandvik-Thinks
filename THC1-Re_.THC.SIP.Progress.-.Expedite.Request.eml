@@ -1,0 +1,645 @@
+X-Notes-Item: 1;
+ name=$AutoSpell
+X-Notes-Item: Wed, 7 Oct 2015 17:56:35 +0530;
+ type=400; name=OriginalModTime
+X-Notes-Item: Reply;
+ name=Form
+In-Reply-To: <OF1EE4C1C8.C0372FA4-ON65257ED5.003038E6-65257ED5.0030E15D@LocalDomain>
+References: <OFB92D47FC.4FD0EF11-ONC1257ECB.0041F4BF-C1257ECB.0049089D@LocalDomain> <OF1EE4C1C8.C0372FA4-ON65257ED5.003038E6-65257ED5.0030E15D@LocalDomain>
+X-Notes-Item: 1EE4C1C8:C0372FA4-65257ED5:003038E6;
+ type=4; name=$REF
+X-Notes-Item: B92D47FC:4FD0EF11-C1257ECB:0041F4BF, B92D47FC:4FD0EF11-C1257ECB:0041F4BF, 1EE4C1C8:C0372FA4-65257ED5:003038E6;
+ type=4; name=$TUA
+X-Notes-Item: ;
+ name=InheritedSentBy
+X-Notes-Item: CN=Rajiv Sachdeva1/OU=India/O=IBM;
+ flags=44; name=InheritedFrom
+X-Notes-Item: CN=Rajiv Sachdeva1/OU=India/O=IBM;
+ flags=44; name=InheritedAltFrom
+X-Notes-Item: ;
+ name=InheritedSMTPOriginator
+X-Notes-Item: StdNotesLtr0;
+ name=Logo
+X-Notes-Item: StdNotesLtr0;
+ name=dLogo
+X-Notes-Item: 1;
+ name=DefaultMailSaveOptions
+X-Notes-Item: 0;
+ name=ExpandPersonalGroups
+X-Notes-Item: ;
+ name=origStat
+X-Notes-Item: ;
+ name=tmpImp
+X-Notes-Item: ;
+ name=Sign
+X-Notes-Item: =?UTF-8?B?VGVhbSwgSSByZXZpZXdlZCB0aGUgVEhDIHByb2dyZXNzIHdpdGggU2FuamF5?=
+ =?UTF-8?B?LiBUaGUgcHJvZ3Jlc3MgaGFzIGJlZW4gc2xvdyBidXQgYXQgdGhlIHNhbWU=?=
+ =?UTF-8?B?IHRpbWUgd2hhdA==?=;
+ flags=6; name=$Abstract
+X-Notes-Item: IBM Confidential;
+ name=ConfidentialString
+X-Notes-Item: ;
+ name=Classification
+Subject: Re: THC SIP Progress - Expedite Request
+X-KeepSent: EAE0EB03:2D57E3E0-65257ED7:003C926A;
+ type=4; name=$KeepSent
+To: Pawandeep_S_Kohli1/India/IBM%IBMIN,
+	Arne_Jager/Denmark/IBM%IBMDK,
+	Subhanjan_Ghosh1/India/IBM%IBMIN,
+	Pallavi_Shrotri/India/IBM%IBMIN,
+	Ravi_Vashisht/India/IBM%IBMIN,
+	Bhavita_Jain/India/IBM%IBMIN,
+	Deepak_Sharma67/India/IBM%IBMIN,
+	Brijesh_K_Srivastava/India/IBM%IBMIN,
+	Pankaj_K_Chawla/India/IBM%IBMIN,
+	Praveen_Kumar71/India/IBM%IBMIN,
+	Manish_Gairola/India/IBM%IBMIN,
+	Mats_Samuelsson/Sweden/IBM%IBMSE,
+	Bo_Ek/Sweden/IBM%IBMSE,
+	Ilkka_Nummi/Finland/IBM%IBMFI,
+	Shikha_Mohan/India/IBM%IBMIN,
+	Satish_V32/India/IBM%IBMIN,
+	Virendra_Sharma7/India/IBM%IBMIN,
+	Umesh_K_Tanwar1/India/IBM%IBMIN,
+	Gourav_Sharma1/India/IBM%IBMIN,
+	Komal_Singla/India/IBM%IBMIN,
+	Amod_Tripathi1/India/IBM%IBMIN,
+	Mukesh_K_Urmaliya2/India/IBM%IBMIN,
+	Sanjay_Srivastava1/India/IBM%IBMIN
+Cc: Patrik_Johansson/Sweden/IBM%IBMSE,
+	Jan_Pettersson1/Sweden/IBM%IBMSE,
+	Trideep_Mukherjee/India/IBM%IBMIN,
+	rajiv.sachdeva@in.ibm.com
+X-Notes-Item: en;
+ type=501; name=$NameLanguageTags
+X-Notes-Item: CN=Pawandeep S Kohli1/OU=India/O=IBM@IBMIN,
+	CN=Arne Jager/OU=Denmark/O=IBM@IBMDK,
+	CN=Subhanjan Ghosh1/OU=India/O=IBM@IBMIN,
+	CN=Pallavi Shrotri/OU=India/O=IBM@IBMIN,
+	CN=Ravi Vashisht/OU=India/O=IBM@IBMIN,
+	CN=Bhavita Jain/OU=India/O=IBM@IBMIN,
+	CN=Deepak Sharma67/OU=India/O=IBM@IBMIN,
+	CN=Brijesh K Srivastava/OU=India/O=IBM@IBMIN,
+	CN=Pankaj K Chawla/OU=India/O=IBM@IBMIN,
+	CN=Praveen Kumar71/OU=India/O=IBM@IBMIN,
+	CN=Manish Gairola/OU=India/O=IBM@IBMIN,
+	CN=Mats Samuelsson/OU=Sweden/O=IBM@IBMSE,
+	CN=Bo Ek/OU=Sweden/O=IBM@IBMSE,
+	CN=Ilkka Nummi/OU=Finland/O=IBM@IBMFI,
+	CN=Shikha Mohan/OU=India/O=IBM@IBMIN,
+	CN=Satish V32/OU=India/O=IBM@IBMIN,
+	CN=Virendra Sharma7/OU=India/O=IBM@IBMIN,
+	CN=Umesh K Tanwar1/OU=India/O=IBM@IBMIN,
+	CN=Gourav Sharma1/OU=India/O=IBM@IBMIN,
+	CN=Komal Singla/OU=India/O=IBM@IBMIN,
+	CN=Amod Tripathi1/OU=India/O=IBM@IBMIN,
+	CN=Mukesh K Urmaliya2/OU=India/O=IBM@IBMIN,
+	CN=Sanjay Srivastava1/OU=India/O=IBM@IBMIN;
+ type=501; flags=45; name=OriginalTo
+X-Notes-Item: CN=Patrik Johansson/OU=Sweden/O=IBM@IBMSE,
+	CN=Jan Pettersson1/OU=Sweden/O=IBM@IBMSE,
+	CN=Trideep Mukherjee/OU=India/O=IBM@IBMIN,
+	CN=Rajiv Sachdeva1/OU=India/O=IBM@IBMIN;
+ type=501; flags=45; name=Originalcc
+X-Notes-Item: CN=Pawandeep S Kohli1/OU=India/O=IBM@IBMIN,
+	CN=Arne Jager/OU=Denmark/O=IBM@IBMDK,
+	CN=Subhanjan Ghosh1/OU=India/O=IBM@IBMIN,
+	CN=Pallavi Shrotri/OU=India/O=IBM@IBMIN,
+	CN=Ravi Vashisht/OU=India/O=IBM@IBMIN,
+	CN=Bhavita Jain/OU=India/O=IBM@IBMIN,
+	CN=Deepak Sharma67/OU=India/O=IBM@IBMIN,
+	CN=Brijesh K Srivastava/OU=India/O=IBM@IBMIN,
+	CN=Pankaj K Chawla/OU=India/O=IBM@IBMIN,
+	CN=Praveen Kumar71/OU=India/O=IBM@IBMIN,
+	CN=Manish Gairola/OU=India/O=IBM@IBMIN,
+	CN=Mats Samuelsson/OU=Sweden/O=IBM@IBMSE,
+	CN=Bo Ek/OU=Sweden/O=IBM@IBMSE,
+	CN=Ilkka Nummi/OU=Finland/O=IBM@IBMFI,
+	CN=Shikha Mohan/OU=India/O=IBM@IBMIN,
+	CN=Satish V32/OU=India/O=IBM@IBMIN,
+	CN=Virendra Sharma7/OU=India/O=IBM@IBMIN,
+	CN=Umesh K Tanwar1/OU=India/O=IBM@IBMIN,
+	CN=Gourav Sharma1/OU=India/O=IBM@IBMIN,
+	CN=Komal Singla/OU=India/O=IBM@IBMIN,
+	CN=Amod Tripathi1/OU=India/O=IBM@IBMIN,
+	CN=Mukesh K Urmaliya2/OU=India/O=IBM@IBMIN,
+	CN=Sanjay Srivastava1/OU=India/O=IBM@IBMIN;
+ type=501; flags=45; name=AltSendTo
+X-Notes-Item: CN=Patrik Johansson/OU=Sweden/O=IBM@IBMSE,
+	CN=Jan Pettersson1/OU=Sweden/O=IBM@IBMSE,
+	CN=Trideep Mukherjee/OU=India/O=IBM@IBMIN,
+	CN=Rajiv Sachdeva1/OU=India/O=IBM@IBMIN;
+ type=501; flags=45; name=AltCopyTo
+X-Notes-Item: .,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.,
+	.;
+ type=501; name=$StorageTo
+X-Notes-Item: 1,
+	.,
+	.,
+	1;
+ type=501; name=$StorageCc
+X-Mailer: IBM Notes Release 9.0.1FP2 SHF37 August 25, 2014
+Message-ID: <OFEAE0EB03.2D57E3E0-ON65257ED7.003C926A-65257ED7.00445BC6@LocalDomain>
+From: svidhya@in.ibm.com
+Date: Wed, 7 Oct 2015 17:56:39 +0530
+X-Notes-Item: 0;
+ name=Encrypt
+X-Notes-Item: CN=NALLN140/OU=40/OU=LLN/O=IBM,
+	CN=NALLN265/OU=40/OU=LLN/O=IBM,
+	CN=D50HUB10/OU=50/OU=H/O=IBM,
+	CN=D50HUB10/OU=50/OU=H/O=IBM,
+	CN=D23HUB10/OU=23/OU=H/O=IBM,
+	CN=d23ml066/OU=23/OU=M/O=IBM;
+ type=501; name=RouteServers
+X-Notes-Item: =?UTF-8?B?MDctT2N0LTIwMTUgMTI6MjY6NTcgR01ULzA3LU9jdC0yMDE1IDEyOjI2OjU3?=
+ =?UTF-8?B?IEdNVCwgMDctT2N0LTIwMTUgMTI6MjY6NTggR01ULzA3LU9jdC0yMDE1IDEy?=
+ =?UTF-8?B?OjI2OjU5IEdNVCwgMDctT2N0LTIwMTUgMDY6MjY6NTkgTURULzA3LU9jdC0=?=
+ =?UTF-8?B?MjAxNSAwNjoyNjo1OSBNRFQsIDA3LU9jdC0yMDE1IDA2OjI2OjU5IE1EVC8=?=
+ =?UTF-8?B?MDctT2N0LTIwMTUgMDY6Mjc6MDggTURULCAwNy1PY3QtMjAxNSAxNzo1Nzo=?=
+ =?UTF-8?B?MTIgWkU1Qi8wNy1PY3QtMjAxNSAxNzo1NzoxMiBaRTVCLCAwNy1PY3Qt?=
+ =?UTF-8?B?MjAxNSAxNzo1NzoxMyBaRTVCLzA3LU9jdC0yMDE1IDE3OjU3OjEzIFpFNUI=?=;
+ type=401; name=RouteTimes
+X-Notes-Item: EAE0EB03:2D57E3E0-65257ED7:003C926A;
+ type=4; name=$Orig
+X-Notes-Item: ;
+ name=HasSafeStamp
+X-Notes-Item: 14;
+ name=$HopsSaaS
+X-Notes-Item: CN=Srividhya Sireesh/OU=India/O=IBM,
+	CN=NALLN140/OU=40/OU=LLN/O=IBM,
+	CN=NALLN265/OU=40/OU=LLN/O=IBM,
+	CN=D50HUB10/OU=50/OU=H/O=IBM,
+	CN=D23HUB10/OU=23/OU=H/O=IBM,
+	CN=d23ml066/OU=23/OU=M/O=IBM;
+ type=501; flags=44; name=$UpdatedBy
+X-Notes-Item: ;
+ type=501; name=Categories
+X-Notes-Item: Wed, 7 Oct 2015 17:57:13 +0530;
+ type=400; name=$Revisions
+X-Notes-Item: Wed, 7 Oct 2015 17:57:13 +0530;
+ type=400; name=DeliveredDate
+X-Notes-Item: 1;
+ name=$RespondedTo
+X-Notes-Item: 1;
+ name=$NoteHasNativeMIME
+X-Notes-Item: CN=Srividhya Sireesh/OU=India/O=IBM;
+ name=OriginalFrom
+X-MIMETrack: Serialize by Notes Client on Sanjay Srivastava1/India/IBM(Release 9.0.1FP2
+ SHF37|August 25, 2014) at 02/23/2016 10:30:21 AM
+MIME-Version: 1.0
+Content-type: multipart/related; 
+	Boundary="0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA"
+Content-Disposition: inline
+
+--0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA
+Content-type: text/html; charset=ISO-8859-1
+Content-Disposition: inline
+Content-transfer-encoding: quoted-printable
+
+<html><body>
+<p><font size=3D"2" face=3D"sans-serif">Team,</font><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">I reviewed the THC progress with S=
+anjay. The progress has been slow but at the same time what bothers me =
+is that we are waiting for the PM to made basic contacts with one anoth=
+er. This clearly shows lack of leadership on behalf of the action owner=
+s.</font><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">I would request each one of you to=
+ take ownership of your actions and nail down your activities in terms =
+of milestones with clear dates.</font><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">We will review only the </font><fo=
+nt size=3D"2" color=3D"#FF0000" face=3D"sans-serif">RED </font><font si=
+ze=3D"2" face=3D"sans-serif">actions this week and hence a request to t=
+he action owners to come prepared to present the milestones.</font><br>=
+
+<br>
+<font size=3D"2" face=3D"Tahoma">Regards </font><br>
+<br>
+<font size=3D"2" color=3D"#000080" face=3D"Tahoma"><b>Vidya (Srividhya =
+Sireesh)</b></font><br>
+<br>
+<font size=3D"2" face=3D"Tahoma">Global DPE - SANDVIK</font><br>
+<font size=3D"2" face=3D"Tahoma">--------------------------------------=
+-----------------------------------------------------------------------=
+-------------------------------------------------------------------</fo=
+nt>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr valign=3D"top"><td width=3D"281"><font size=3D"2" face=3D"Tahoma">I=
+BM Svenska AB</font><br>
+<font size=3D"2" face=3D"Tahoma">SO - Delivery</font><br>
+<font size=3D"2" face=3D"Tahoma">Sweden, IMT Nordic </font></td><td wid=
+th=3D"250"><font size=3D"2" face=3D"Tahoma">svidhya@in.ibm.com</font><b=
+r>
+<font size=3D"2" face=3D"Tahoma">Operating Location -</font><br>
+<font size=3D"2" face=3D"Tahoma">IBM India, Manyatha Tech park</font><b=
+r>
+<font size=3D"2" face=3D"Tahoma">Bangalore</font></td><td width=3D"351"=
+><font size=3D"2" face=3D"Tahoma"><b><u>India Mobile (Primary) : +91 98=
+45393433</u></b></font><a href=3D"http://w3.ibm.com/bluepages/simpleSea=
+rch.wss?searchBy=3DName&location=3DAll+locations&searchFor=3DMonica+Kal=
+lvikbacka"></a><br>
+<font size=3D"1" color=3D"#0000FF" face=3D"Tahoma"><s>Sweden Mobile (Se=
+condary) : +46 (0) 707-93-0550 (No longer in use)</s></font><br>
+<font size=3D"2" face=3D"Tahoma">IBM - Manager on Duty Number (SANDVIK)=
+ on rotation </font><br>
+<font size=3D"2" face=3D"Tahoma">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;: +46 (0) 841-00-1079</font></td></tr>
+</table>
+<font size=3D"2" face=3D"Tahoma">--------------------------------------=
+-----------------------------------------------------------------------=
+-------------------------------------------------------------------</fo=
+nt><br>
+<font size=3D"2" color=3D"#000080" face=3D"Tahoma">Link to the SANDVIK =
+Delivery Account Organization chart -</font><font size=3D"2" color=3D"#=
+000080" face=3D"Tahoma"><b>&nbsp;</b></font><font size=3D"2" color=3D"#=
+000080" face=3D"Tahoma"><b>&nbsp;</b></font><a href=3D"http://ibm.co/1A=
+Lh2Uh"></a><a href=3D"http://ibm.co/1AwlenR"><font size=3D"2" face=3D"s=
+ans-serif"><b>http://ibm.co/1AwlenR</b></font></a><br>
+<br>
+<font size=3D"2" color=3D"#008000" face=3D"Tahoma">Note - Please use </=
+font><font size=3D"2" color=3D"#008000" face=3D"Tahoma"><b><u>English</=
+u></b></font><font size=3D"2" color=3D"#008000" face=3D"Tahoma">&nbsp;o=
+nly for any account related communication.</font><br>
+<br>
+<font size=3D"2" face=3D"Tahoma">I Believe - &quot;Carpe Diem, Make eve=
+ryday better than yesterday.&quot;</font><br>
+<br>
+<font size=3D"2" color=3D"#800080" face=3D"Tahoma">3rd July, 2015 to 31=
+st Dec, 2015 - Most of the time, I will work from India. Use my India n=
+umber only - 00919845393433.</font><br>
+<font size=3D"2" face=3D"Tahoma">--------------------------------------=
+-----------------------------------------------------------------------=
+--------------------------------------------------------------------</f=
+ont><br>
+<br>
+<img width=3D"16" height=3D"16" src=3D"cid:0__=3DEABBF444DFAF14FA8f9e8a=
+93df93869091@local" border=3D"0" alt=3D"Inactive hide details for Rajiv=
+ Sachdeva1---10/05/2015 02:23:58 PM---Hi all, Without your support we w=
+ill not be able to close "><font size=3D"2" color=3D"#424282" face=3D"s=
+ans-serif">Rajiv Sachdeva1---10/05/2015 02:23:58 PM---Hi all, Without y=
+our support we will not be able to close the actions on time so to avoi=
+d overall de</font><br>
+<br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">From:	</font><fo=
+nt size=3D"1" face=3D"sans-serif">Rajiv Sachdeva1/India/IBM</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">To:	</font><font=
+ size=3D"1" face=3D"sans-serif">Pawandeep S Kohli1/India/IBM@IBMIN, Arn=
+e Jager/Denmark/IBM@IBMDK, Subhanjan Ghosh1/India/IBM@IBMIN, Pallavi Sh=
+rotri/India/IBM@IBMIN, Ravi Vashisht/India/IBM@IBMIN, Bhavita Jain/Indi=
+a/IBM@IBMIN, Deepak Sharma67/India/IBM@IBMIN, Brijesh K Srivastava/Indi=
+a/IBM@IBMIN, Pankaj K Chawla/India/IBM@IBMIN, Praveen Kumar71/India/IBM=
+@IBMIN, Manish Gairola/India/IBM@IBMIN, Mats Samuelsson/Sweden/IBM@IBMS=
+E, Bo Ek/Sweden/IBM@IBMSE, Ilkka Nummi/Finland/IBM@IBMFI, Shikha Mohan/=
+India/IBM@IBMIN, Satish V32/India/IBM@IBMIN, Virendra Sharma7/India/IBM=
+@IBMIN, Umesh K Tanwar1/India/IBM@IBMIN, Gourav Sharma1/India/IBM@IBMIN=
+, Komal Singla/India/IBM@IBMIN, Amod Tripathi1/India/IBM@IBMIN, Mukesh =
+K Urmaliya2/India/IBM@IBMIN, Sanjay Srivastava1/India/IBM@IBMIN</font><=
+br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">Cc:	</font><font=
+ size=3D"1" face=3D"sans-serif">Srividhya Sireesh/India/IBM@IBMIN, Patr=
+ik Johansson/Sweden/IBM@IBMSE, Jan Pettersson1/Sweden/IBM@IBMSE, Tridee=
+p Mukherjee/India/IBM@IBMIN</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">Date:	</font><fo=
+nt size=3D"1" face=3D"sans-serif">10/05/2015 02:23 PM</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">Subject:	</font>=
+<font size=3D"1" face=3D"sans-serif">Re: THC SIP Progress - Expedite Re=
+quest</font><br>
+<hr width=3D"100%" size=3D"2" align=3D"left" noshade style=3D"color:#80=
+91A5; "><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">Hi all,</font><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">Without your support we will not b=
+e able to close the actions on time so to avoid overall delay to projec=
+t we really need all of you to be more attentive towards this exercise.=
+ As Sanjay stated, we are not in a position to change the target date f=
+or any action now unless there is a solid business justification around=
+ that. Therefore, please start attending Sanjay's calls regularly to pr=
+ovide the required data and progress status.</font><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">Starting this month we will start =
+sending weekly escalation emails for the defaulting areas so request th=
+e respective Work Stream owners for all their support.<br>
+</font><br>
+<font size=3D"1" face=3D"Arial">Regards,</font><br>
+<br>
+<font size=3D"3" color=3D"#888888" face=3D"Arial"><b>Rajiv Sachdeva</b>=
+</font><font size=3D"1" face=3D"Arial"><br>
+Delivery Account Management - Sandvik<br>
+ITIL V3 Certified, CobiT=AE 5.0 Foundation Certified<br>
+Strategic Outsourcing Delivery, Global Technology Services</font>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr valign=3D"top"><td width=3D"650" colspan=3D"2" valign=3D"middle"><h=
+r width=3D"100%" size=3D"2" align=3D"left"></td></tr>
+
+<tr valign=3D"top"><td width=3D"399"><font size=3D"1" color=3D"#466BB0"=
+ face=3D"Arial"><b>Mobile:</b></font><font size=3D"1" color=3D"#5F5F5F"=
+ face=3D"Arial">&nbsp;+91-9811-506334</font><font size=3D"1" color=3D"#=
+466BB0" face=3D"Arial"><b><br>
+E-mail:</b></font><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">&nb=
+sp;</font><a href=3D"mailto:rajiv.sachdeva@in.ibm.com" target=3D"_blank=
+"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial"><u>rajiv.sachdeva@i=
+n.ibm.com</u></font></a><font size=3D"1" color=3D"#466BB0" face=3D"Aria=
+l"><b><br>
+Chat:</b></font><img src=3D"cid:1__=3DEABBF444DFAF14FA8f9e8a93df9386909=
+1@local" width=3D"16" height=3D"16" alt=3D"Sametime: "><font size=3D"1"=
+ color=3D"#5F5F5F" face=3D"Arial">&nbsp;rajiv.sachdeva@in.ibm.com </fon=
+t></td><td width=3D"251"><div align=3D"right"><img src=3D"cid:2__=3DEAB=
+BF444DFAF14FA8f9e8a93df93869091@local" width=3D"87" height=3D"30" alt=3D=
+"IBM" class=3D"org"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial"><=
+br>
+<br>
+6th Flr, Tower-B, ASF Insignia<br>
+Gurgaon-Faridabad Road,, Gurgaon, Haryana 122003<br>
+India</font></div></td></tr>
+</table>
+<br>
+<br>
+<br>
+<img width=3D"16" height=3D"16" src=3D"cid:0__=3DEABBF444DFAF14FA8f9e8a=
+93df93869091@local" border=3D"0" alt=3D"Inactive hide details for Sanja=
+y Srivastava1---09/25/2015 06:47:40 PM---Hi All, This is to bring every=
+body's notice that the ov"><font size=3D"2" color=3D"#424282" face=3D"s=
+ans-serif">Sanjay Srivastava1---09/25/2015 06:47:40 PM---Hi All, This i=
+s to bring everybody's notice that the overall progress for THC recomme=
+ndation towards</font><br>
+<br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">From:	</font><fo=
+nt size=3D"1" face=3D"sans-serif">Sanjay Srivastava1/India/IBM</font><b=
+r>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">To:	</font><font=
+ size=3D"1" face=3D"sans-serif">Pawandeep S Kohli1/India/IBM@IBMIN, Arn=
+e Jager/Denmark/IBM@IBMDK, Subhanjan Ghosh1/India/IBM@IBMIN, Pallavi Sh=
+rotri/India/IBM@IBMIN, Ravi Vashisht/India/IBM@IBMIN, Bhavita Jain/Indi=
+a/IBM@IBMIN, Deepak Sharma67/India/IBM@IBMIN, Brijesh K Srivastava/Indi=
+a/IBM@IBMIN, Pankaj K Chawla/India/IBM@IBMIN, Praveen Kumar71/India/IBM=
+@IBMIN, Manish Gairola/India/IBM@IBMIN, Mats Samuelsson/Sweden/IBM@IBMS=
+E, Bo Ek/Sweden/IBM@IBMSE, Ilkka Nummi/Finland/IBM@IBMFI, Shikha Mohan/=
+India/IBM@IBMIN, Satish V32/India/IBM@IBMIN, Virendra Sharma7/India/IBM=
+@IBMIN, Umesh K Tanwar1/India/IBM@IBMIN, Gourav Sharma1/India/IBM@IBMIN=
+, Komal Singla/India/IBM@IBMIN, Amod Tripathi1/India/IBM@IBMIN, Mukesh =
+K Urmaliya2/India/IBM@IBMIN</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">Cc:	</font><font=
+ size=3D"1" face=3D"sans-serif">Srividhya Sireesh/India/IBM@IBMIN, Patr=
+ik Johansson/Sweden/IBM@IBMSE, Jan Pettersson1/Sweden/IBM@IBMSE, Yogesh=
+ Gupta4/India/IBM@IBMIN, Trideep Mukherjee/India/IBM@IBMIN, Rajiv Sachd=
+eva1/India/IBM@IBMIN</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">Date:	</font><fo=
+nt size=3D"1" face=3D"sans-serif">09/25/2015 06:47 PM</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"sans-serif">Subject:	</font>=
+<font size=3D"1" face=3D"sans-serif">THC SIP Progress - Expedite Reques=
+t</font><br>
+<hr width=3D"100%" size=3D"2" align=3D"left" noshade style=3D"color:#80=
+91A5; "><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">Hi All,</font><br>
+<font size=3D"2" face=3D"sans-serif">This is to bring everybody's notic=
+e that the overall progress for THC recommendation towards almost all W=
+S (except AM, SAN Devices) going slow. Based on the revised dates provi=
+ded by you, we should complete approx 90 recommendation (80% of 121 tot=
+al in scope recommendations) by end of Oct 2015. But till now we've onl=
+y 35 completed recommendations, which is far below the target. In order=
+ to achieve the mentioned target, I would like to remind all of us and =
+to work keeping below points in mind, going forwards:</font><br>
+<br>
+<font size=3D"2" face=3D"sans-serif">1. Work towards your planned actio=
+ns per recommendation, and try to achieve by the given &quot;Target Dat=
+es&quot;, as there would be no more changes to these dates unless you'v=
+e some dependency or an unresolved &nbsp;issue.</font><br>
+<font size=3D"2" face=3D"sans-serif">2. Attend all upcoming THC weekly =
+meetings to provide progress update.The updated tracker with progress c=
+omments and scored cards to send me latest by every Friday.</font><br>
+<font size=3D"2" face=3D"sans-serif">3. Work collaboratively with other=
+ WS (Service Lines) or concerned persons/teams to get inputs or resolve=
+ issues if required instead of waiting for me/Rajiv or someone else to =
+push it for you. </font><br>
+<font size=3D"2" face=3D"sans-serif">4. Proactively work towards closin=
+g your THC actions/recommendations as per your WS tracker, and raise co=
+ncern/issues immediately for any help/escalations/support you need.<br>=
+
+</font><br>
+<font size=3D"2" face=3D"sans-serif">In brief, I just want to emphasize=
+ that, please expedite your efforts to close max of the THC actions/rec=
+ommendation within October itself. Please let me or Rajiv know if any s=
+upport/clarification required. Thanks in advance.</font><br>
+<font size=3D"3" face=3D"Tms Rmn">&nbsp;</font><br>
+<br>
+<font size=3D"3" face=3D"Tms Rmn">Kind Regards,</font><br>
+<font size=3D"3" face=3D"Tms Rmn">-------------------------------------=
+-----------------------------------------------------------------------=
+---------------------------</font>
+<p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0">
+<tr valign=3D"top"><td width=3D"440" colspan=3D"2" valign=3D"middle"><f=
+ont size=3D"1" face=3D"Tahoma"><b>Sanjay Srivastava, </b></font><font s=
+ize=3D"1" face=3D"Tahoma">PMP=AE, ITIL-V3=AE</font></td><td width=3D"11=
+5" valign=3D"middle"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">=
+=A0B 19 Sector 62</font></td><td width=3D"123" rowspan=3D"2" valign=3D"=
+middle"><div align=3D"right"><img src=3D"cid:3__=3DEABBF444DFAF14FA8f9e=
+8a93df93869091@local" width=3D"83" height=3D"30" align=3D"bottom"></div=
+></td></tr>
+
+<tr valign=3D"top"><td width=3D"440" colspan=3D"2" valign=3D"middle"><f=
+ont size=3D"1" color=3D"#5F5F5F" face=3D"Arial">Advisory Project Manage=
+r</font></td><td width=3D"115" valign=3D"middle"><font size=3D"1" color=
+=3D"#5F5F5F" face=3D"Arial">=A0Noida 201301</font></td></tr>
+
+<tr valign=3D"top"><td width=3D"440" colspan=3D"2" valign=3D"middle"><f=
+ont size=3D"1" color=3D"#5F5F5F" face=3D"Arial">SANDVIK: SIP Manager</f=
+ont><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">Project Management Se=
+rvices</font><br>
+<font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">Mobile:=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 +91 9818700440</font></td><td width=3D"115" valig=
+n=3D"middle"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">&nbsp;</=
+font></td><td width=3D"123"><font size=3D"1" color=3D"#5F5F5F" face=3D"=
+Arial">&nbsp;</font></td></tr>
+
+<tr valign=3D"top"><td width=3D"78" valign=3D"middle"><font size=3D"1" =
+color=3D"#5F5F5F" face=3D"Arial">e-mail:</font></td><td width=3D"362" v=
+align=3D"middle"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">sanj=
+aysr@in.ibm.com</font></td><td width=3D"115" valign=3D"middle"><font si=
+ze=3D"1" color=3D"#5F5F5F" face=3D"Arial">&nbsp;</font></td><td width=3D=
+"123" valign=3D"middle"><font size=3D"1" color=3D"#5F5F5F" face=3D"Aria=
+l">&nbsp;</font></td></tr>
+
+<tr valign=3D"top"><td width=3D"78" valign=3D"middle"><font size=3D"1" =
+color=3D"#5F5F5F" face=3D"Arial">&nbsp;</font></td><td width=3D"362" va=
+lign=3D"middle"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">&nbsp=
+;</font></td><td width=3D"115" valign=3D"middle"><font size=3D"1" color=
+=3D"#5F5F5F" face=3D"Arial">=A0 </font></td><td width=3D"123" valign=3D=
+"middle"><font size=3D"1" color=3D"#5F5F5F" face=3D"Arial">&nbsp;</font=
+></td></tr>
+</table>
+<font size=3D"1" face=3D"Arial"><b>&nbsp;</b></font><br>
+<font size=3D"3" face=3D"Trebuchet MS">&nbsp;</font><br>
+</body></html>=
+
+--0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA
+Content-type: image/gif; 
+	name="graycol.gif"
+Content-Disposition: inline; filename="graycol.gif"
+Content-ID: <0__=EABBF444DFAF14FA8f9e8a93df93869091@local>
+Content-transfer-encoding: base64
+
+R0lGODlhEAAQAKECAMzMzAAAAP///wAAACH5BAEAAAIALAAAAAAQABAAAAIXlI+py+0PopwxUbpu
+ZRfKZ2zgSJbmSRYAIf4fT3B0aW1pemVkIGJ5IFVsZWFkIFNtYXJ0U2F2ZXIhAAA7
+
+--0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA
+Content-type: image/jpeg; 
+	name="02975981.jpg"
+Content-Disposition: inline; filename="02975981.jpg"
+Content-ID: <1__=EABBF444DFAF14FA8f9e8a93df93869091@local>
+Content-transfer-encoding: base64
+
+/9j/4AAQSkZJRgABAQEASABIAAD/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRyUkdC
+IFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAQAA9tYAAQAA
+AADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFj
+cHJ0AAABUAAAADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRia3B0AAACBAAAABRyWFlaAAACGAAA
+ABRnWFlaAAACLAAAABRiWFlaAAACQAAAABRkbW5kAAACVAAAAHBkbWRkAAACxAAAAIh2dWVkAAAD
+TAAAAIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRtZWFzAAAEDAAAACR0ZWNoAAAEMAAAAAxyVFJD
+AAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAEPAAACAx0ZXh0AAAAAENvcHlyaWdodCAoYykgMTk5
+OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueQAAZGVzYwAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEA
+AAAAAAAAAAAAABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAA
+AAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAA
+AA+EAAC2z2Rlc2MAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAFklFQyBo
+dHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAABkZXNjAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAt
+IHNSR0IAAAAAAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAt
+IHNSR0IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAsUmVmZXJlbmNlIFZpZXdpbmcg
+Q29uZGl0aW9uIGluIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENv
+bmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZpZXcAAAAA
+ABOk/gAUXy4AEM8UAAPtzAAEEwsAA1yeAAAAAVhZWiAAAAAAAEwJVgBQAAAAVx/nbWVhcwAAAAAA
+AAABAAAAAAAAAAAAAAAAAAAAAAAAAo8AAAACc2lnIAAAAABDUlQgY3VydgAAAAAAAAQAAAAABQAK
+AA8AFAAZAB4AIwAoAC0AMgA3ADsAQABFAEoATwBUAFkAXgBjAGgAbQByAHcAfACBAIYAiwCQAJUA
+mgCfAKQAqQCuALIAtwC8AMEAxgDLANAA1QDbAOAA5QDrAPAA9gD7AQEBBwENARMBGQEfASUBKwEy
+ATgBPgFFAUwBUgFZAWABZwFuAXUBfAGDAYsBkgGaAaEBqQGxAbkBwQHJAdEB2QHhAekB8gH6AgMC
+DAIUAh0CJgIvAjgCQQJLAlQCXQJnAnECegKEAo4CmAKiAqwCtgLBAssC1QLgAusC9QMAAwsDFgMh
+Ay0DOANDA08DWgNmA3IDfgOKA5YDogOuA7oDxwPTA+AD7AP5BAYEEwQgBC0EOwRIBFUEYwRxBH4E
+jASaBKgEtgTEBNME4QTwBP4FDQUcBSsFOgVJBVgFZwV3BYYFlgWmBbUFxQXVBeUF9gYGBhYGJwY3
+BkgGWQZqBnsGjAadBq8GwAbRBuMG9QcHBxkHKwc9B08HYQd0B4YHmQesB78H0gflB/gICwgfCDII
+RghaCG4IggiWCKoIvgjSCOcI+wkQCSUJOglPCWQJeQmPCaQJugnPCeUJ+woRCicKPQpUCmoKgQqY
+Cq4KxQrcCvMLCwsiCzkLUQtpC4ALmAuwC8gL4Qv5DBIMKgxDDFwMdQyODKcMwAzZDPMNDQ0mDUAN
+Wg10DY4NqQ3DDd4N+A4TDi4OSQ5kDn8Omw62DtIO7g8JDyUPQQ9eD3oPlg+zD88P7BAJECYQQxBh
+EH4QmxC5ENcQ9RETETERTxFtEYwRqhHJEegSBxImEkUSZBKEEqMSwxLjEwMTIxNDE2MTgxOkE8UT
+5RQGFCcUSRRqFIsUrRTOFPAVEhU0FVYVeBWbFb0V4BYDFiYWSRZsFo8WshbWFvoXHRdBF2UXiReu
+F9IX9xgbGEAYZRiKGK8Y1Rj6GSAZRRlrGZEZtxndGgQaKhpRGncanhrFGuwbFBs7G2MbihuyG9oc
+AhwqHFIcexyjHMwc9R0eHUcdcB2ZHcMd7B4WHkAeah6UHr4e6R8THz4faR+UH78f6iAVIEEgbCCY
+IMQg8CEcIUghdSGhIc4h+yInIlUigiKvIt0jCiM4I2YjlCPCI/AkHyRNJHwkqyTaJQklOCVoJZcl
+xyX3JicmVyaHJrcm6CcYJ0kneierJ9woDSg/KHEooijUKQYpOClrKZ0p0CoCKjUqaCqbKs8rAis2
+K2krnSvRLAUsOSxuLKIs1y0MLUEtdi2rLeEuFi5MLoIuty7uLyQvWi+RL8cv/jA1MGwwpDDbMRIx
+SjGCMbox8jIqMmMymzLUMw0zRjN/M7gz8TQrNGU0njTYNRM1TTWHNcI1/TY3NnI2rjbpNyQ3YDec
+N9c4FDhQOIw4yDkFOUI5fzm8Ofk6Njp0OrI67zstO2s7qjvoPCc8ZTykPOM9Ij1hPaE94D4gPmA+
+oD7gPyE/YT+iP+JAI0BkQKZA50EpQWpBrEHuQjBCckK1QvdDOkN9Q8BEA0RHRIpEzkUSRVVFmkXe
+RiJGZ0arRvBHNUd7R8BIBUhLSJFI10kdSWNJqUnwSjdKfUrESwxLU0uaS+JMKkxyTLpNAk1KTZNN
+3E4lTm5Ot08AT0lPk0/dUCdQcVC7UQZRUFGbUeZSMVJ8UsdTE1NfU6pT9lRCVI9U21UoVXVVwlYP
+VlxWqVb3V0RXklfgWC9YfVjLWRpZaVm4WgdaVlqmWvVbRVuVW+VcNVyGXNZdJ114XcleGl5sXr1f
+D19hX7NgBWBXYKpg/GFPYaJh9WJJYpxi8GNDY5dj62RAZJRk6WU9ZZJl52Y9ZpJm6Gc9Z5Nn6Wg/
+aJZo7GlDaZpp8WpIap9q92tPa6dr/2xXbK9tCG1gbbluEm5rbsRvHm94b9FwK3CGcOBxOnGVcfBy
+S3KmcwFzXXO4dBR0cHTMdSh1hXXhdj52m3b4d1Z3s3gReG54zHkqeYl553pGeqV7BHtje8J8IXyB
+fOF9QX2hfgF+Yn7CfyN/hH/lgEeAqIEKgWuBzYIwgpKC9INXg7qEHYSAhOOFR4Wrhg6GcobXhzuH
+n4gEiGmIzokziZmJ/opkisqLMIuWi/yMY4zKjTGNmI3/jmaOzo82j56QBpBukNaRP5GokhGSepLj
+k02TtpQglIqU9JVflcmWNJaflwqXdZfgmEyYuJkkmZCZ/JpomtWbQpuvnByciZz3nWSd0p5Anq6f
+HZ+Ln/qgaaDYoUehtqImopajBqN2o+akVqTHpTilqaYapoum/adup+CoUqjEqTepqaocqo+rAqt1
+q+msXKzQrUStuK4trqGvFq+LsACwdbDqsWCx1rJLssKzOLOutCW0nLUTtYq2AbZ5tvC3aLfguFm4
+0blKucK6O7q1uy67p7whvJu9Fb2Pvgq+hL7/v3q/9cBwwOzBZ8Hjwl/C28NYw9TEUcTOxUvFyMZG
+xsPHQce/yD3IvMk6ybnKOMq3yzbLtsw1zLXNNc21zjbOts83z7jQOdC60TzRvtI/0sHTRNPG1EnU
+y9VO1dHWVdbY11zX4Nhk2OjZbNnx2nba+9uA3AXcit0Q3ZbeHN6i3ynfr+A24L3hROHM4lPi2+Nj
+4+vkc+T85YTmDeaW5x/nqegy6LzpRunQ6lvq5etw6/vshu0R7ZzuKO6070DvzPBY8OXxcvH/8ozz
+GfOn9DT0wvVQ9d72bfb794r4Gfio+Tj5x/pX+uf7d/wH/Jj9Kf26/kv+3P9t////2wBDAAEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQH/wAARCAAQABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYH
+Cv/EACAQAAIDAQEAAgMBAAAAAAAAAAMEAgUGAQgSEwcRFBX/xAAVAQEBAAAAAAAAAAAAAAAAAAAI
+Cf/EAB4RAAMAAgMAAwAAAAAAAAAAAAIDBAEFBgcRCBMV/9oADAMBAAIRAxEAPwDRl6U9MaHRbW2p
+xFkauTPPtZQMuPgpkaXpSgRcZrkGkZWtpazWO0ZywIZRYUQqqrcLA8htHln0Ve1+or6vpzDq5PoJ
+aTNReddqP8u1IVda9plbBlw1K8i0HkDgEwNJ/hOfr4c+7gKb6F8Y4Xa3EXdIPUUJkpnHQ7fHGCI8
+qlhkrcKO5Gym4qeKpTHIAcoLNjJ05lmOqTLAgTyr5Hd/H9roawTgNNmbXT197Pau07lVfdqa4fwD
+nXilcbRfmHv3fyEregIs28+22KI5rLrSti498iFdwxPciw9+3k+GV70HuJa417DDmDSg0raPH3S4
+OUcre7Tfl5GZXgEmLD7r5F0DT0dRDKII3s2omBeroiMCouNi0vpl2S2Nka9aTOkZ3Ln2Q1+H9eXL
+ZaX/2Q==
+
+--0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA
+Content-type: image/gif; 
+	name="02252136.gif"
+Content-Disposition: inline; filename="02252136.gif"
+Content-ID: <2__=EABBF444DFAF14FA8f9e8a93df93869091@local>
+Content-transfer-encoding: base64
+
+R0lGODlhVwAeAPcAAAAAAIAAAACAAICAAAAAgIAAgACAgMDAwMDcwKbK8ER3u8bGxv///wAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAP/78KCgpICAgP8AAAD/AP//AAAA//8A/wD//////yH5BAAAAAAALAAAAABXAB4A
+hwAAAIAAAACAAICAAAAAgIAAgACAgMDAwMDcwKbK8ER3u8bGxv///wAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/7
+8KCgpICAgP8AAAD/AP//AAAA//8A/wD//////wj+ABcoGEiwYMEFDAQaXGhwAUIGEBMyLBixIsSJ
+By1qVIiRIEKOHRc+hAiS4ciKJU1qXMmypcuXMGPKnEmzps2bLlNO/Biy40OdBlf2VHByJVCREoeq
+TOrT4tGMOKNKnUq1qtWrDBjmDIoSacWOFpve1NqypNOFGsUyXYq1rdu3cOO2JMvyKdq0Te0WnUnX
+qFKiQkUebOhVruHDiBPD7Lvx796sDddmLFyT8dm/gaFOvBhZsefPoN9a7kqRdOmvnVNGpExzdESz
+pj2G7QxZNmeooXPr3o1aAUmlPP/ePToSZG+2F1dLxhhcuG3ivU+qzZpVIHXecH0PTI5dNHXtdmUZ
+h9/5mnnXotOvUx8PmP3Bk9C/4iU/2zeDgAA7
+
+--0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA
+Content-type: image/gif; 
+	name="02319074.gif"
+Content-Disposition: inline; filename="02319074.gif"
+Content-ID: <3__=EABBF444DFAF14FA8f9e8a93df93869091@local>
+Content-transfer-encoding: base64
+
+R0lGODdhUwAeAHcAACH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACwAAAAAUwAeAIMAPmkA
+ir8As+9MrdJMyvR/xN9/2fey3Oyy6Pr///8BAgMBAgMBAgMBAgMBAgMBAgME/xDISWtKIuvNMzFX
+mARkaZJieq5BGlYwdXV0ZyAiex5ucuimnnBILBqPyKRyyWymYtBZbboBjYAlnuiHRfWgMSl1fOmS
+CqmCueVsu9/wuFwZHnZchrsKiL6ogXQwRHoieRsELl0hinONjo+QkSJ1QmM2PV0DCQOMSJQ9llVC
+K38lpWcrkqqrrK1fgnahGVaJO1csPqlJny6yGrQ5toBcQa7Gx8hvvCmEIYYaiHsmWqcBfcQlgRax
+G3jNZbbg2RfYXsnn6OkXYLC+NeIsWgmlfbmAr+wTYu6/8Cvyt7ZgEVFgAEB1jg4UUFgPYaMBBQ8M
+yCcDAz8BN4LpAKimYbkTIRUKLBRJUZ9FXx9qbVSR4mMxPxATRAAAOw==
+
+--0__=EABBF444DFAF14FA8f9e8a93df938690918cEABBF444DFAF14FA--
+
